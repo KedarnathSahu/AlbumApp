@@ -13,5 +13,4 @@ const App = () => (
 );
 
 //Render it to the device
-AppRegistry.registerComponent('TestApp', () => App
-);
+AppRegistry.registerComponent('TestApp', () => App);
